@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+__pycache__/
+data/ATL03h5v003/
+data/sentinel2/
+amery_ponds_icesat2_data.pkl
+amery_ponds_manual_picking_data.pkl
+allCompiledData.pkl
+allCompiledDepthData.csv
+readers/__pycache__/
+data/pondPickingResults/pondPickingFigs/
