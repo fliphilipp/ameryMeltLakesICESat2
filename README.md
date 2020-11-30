@@ -1,4 +1,4 @@
-# Revisiting surface melt on Amery Ice Shelf, East Antarctica, with ICESat-2
+# ICESat-2 meltwater depth retrievals: application to surface melt on southern Amery Ice Shelf, East Antarctica
 
 ## Data availability:
 - The estimated depths for all algorithms and the manual method are compiled in [this CSV file](https://raw.githubusercontent.com/fliphilipp/ameryMeltLakesICESat2/master/data/allCompiledDepthData.csv). 
